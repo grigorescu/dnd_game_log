@@ -1,11 +1,4 @@
-characters.idx
-characters.ilg
-characters.ind
-locations.idx
-locations.ilg
-locations.ind
-monsters.idx
-monsters.ilg
-monsters.ind
+*.ilg
+*.ind
 *.aux
 *.log
